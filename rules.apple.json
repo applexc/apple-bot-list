@@ -6,7 +6,7 @@
 		],
 		"description": "This is my test version for the rule-list",
 		"title": "apple test ruleset",
-		"update_url": "https://raw.githubusercontent.com/applexc/apple-bot-list/main/rules.apple.json"
+		"update_url": "https://github.com/applexc/apple-bot-list/blob/main/rules.apple.json"
 	},
 	"rules": [
 		{
