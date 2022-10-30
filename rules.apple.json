@@ -15,12 +15,14 @@
 					"cheater"
 				]
 			},
-			"description": "[BETA]Regex Name match",
+			"description": "Name match",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": false,
 					"mode": "regex",
 					"patterns": [
+						"Fuck Nemo",
+						"Vinesauce",
 						"braaaap \\d+",
 						"swonk bot \\d+",
 						"S.* bit\\.ly\\/2UnS5z8",
