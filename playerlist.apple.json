@@ -5,7 +5,7 @@
             "apple"
         ],
         "title": "apple private bot/cheaters list",
-        "update_url": "https://raw.githubusercontent.com/applexc/apple-bot-list/main/playerlist.json"
+        "update_url": "https://github.com/applexc/apple-bot-list/blob/main/playerlist.apple.json"
     },
 	"players": [
 		{
