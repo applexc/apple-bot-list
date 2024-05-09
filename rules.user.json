@@ -10,6 +10,36 @@
 	},
 	"rules": [
 		{
+            "actions": {
+                "mark": [
+                    "cheater"
+                ]
+            },
+            "description": "bot profile match",
+            "triggers": {
+                "avatar_match": [
+                    {
+                        "avatar_hash": "9e27b9aae7d72b90fa5e86fe0dc97f2efcc819aa"
+                    },
+                    {
+                        "avatar_hash": "f14db0763a9e4e1b98064bdf1bcacca6e90ccbd4"
+                    },
+                    {
+                        "avatar_hash": "5d37a5fd349d1841f930333237eb6a60f7dd6fbc"
+                    },
+                    {
+                        "avatar_hash": "2a2493b5cad90c4af12488957ce1a78253b734e0"
+                    },
+                    {
+                        "avatar_hash": "e90516c154fd7b5f9a8e45f3112b6df4ffd00dd0"
+                    },
+                    {
+                        "avatar_hash": "88a3759c6d5aba6c353b32d67c8778d97ad0c8c5"
+                    }
+                ]
+            }
+        },
+		{
 			"actions": {
 				"transient_mark": [
 					"cheater"
@@ -146,15 +176,6 @@
 					]
 				}
 			}
-		},
-		{
-			"actions": {
-				"mark": [
-					"cheater"
-				]
-			},
-			"description": "[BETA]Avatar match",
-			"triggers": null
 		},
 		{
 			"actions": {
